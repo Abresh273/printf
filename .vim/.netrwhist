@@ -1,12 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =0
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/vagrant/alx-low_level_programming/0x18-dynamic_libraries'
+let g:netrw_dirhist_3='/home/vagrant/alx-low_level_programming/0x17-doubly_linked_lists'
+let g:netrw_dirhist_2='/home/vagrant/alx-higher_level_programming/0x03-python-data_structures'
+let g:netrw_dirhist_1='/home/vagrant/alx-higher_level_programming/0x00-python-hello_world'
 let g:netrw_dirhist_0='/home/vagrant/alx-low_level_programming/0x12-singly_linked_lists'
 let g:netrw_dirhist_9='/home/vagrant/printf'
 let g:netrw_dirhist_8='/home/vagrant/alx-low_level_programming/0x10-variadic_functions'
 let g:netrw_dirhist_7='/home/vagrant/alx-low_level_programming/0x0D-preprocessor'
 let g:netrw_dirhist_6='/home/vagrant/alx-low_level_programming/0x0C-more_malloc_free'
 let g:netrw_dirhist_5='/home/vagrant/alx-low_level_programming/0x09-static_libraries'
-let g:netrw_dirhist_4='/home/vagrant/alx-low_level_programming/0x0B-malloc_free'
-let g:netrw_dirhist_3='/home/vagrant/alx-low_level_programming/0x09-static_libraries'
-let g:netrw_dirhist_2='/home/vagrant/alx-low_level_programming/0x08-recursion'
-let g:netrw_dirhist_1='/home/vagrant/alx-low_level_programming/0x06-pointers_arrays_strings'

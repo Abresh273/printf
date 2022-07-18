@@ -808,3 +808,434 @@ ls
 cd ubuntu
 ls
 exit
+ls
+git add .
+git commit -m "starting pythone"
+git push
+ls
+git add .
+git commit -m "python"
+git add alx-higher_level_programming
+ls
+git clone
+git clone alx-high_level_programming
+ls
+git pull
+git rm alx-higher_level_programming
+ls
+git rm alx-higher_level_programming
+rm alx-higher_level_programming
+ls
+rm -r alx-higher_level_programming
+ls
+git config --global user.name "Abreham"
+git config --global user.email "Abresh273@yahoo.com"
+ls
+git pull
+ls
+mkdir alx-higher_level_programming
+ls
+git add .
+git push
+git add .
+git commit -m "pythone"
+git push
+ls
+rm -r alx-higher_level_programming
+ls
+git clone alx-higher_level_programming
+git config 
+git config  --global  
+git config  --global user.name "abresh"
+git config  --global user.email "abresh273@yahoo.com"
+ls
+git pull
+ls
+git pull https://github.com/Abresh273/alx-higher_level_programming.git
+ls
+ls git
+git
+git fetch
+ls
+git pull abresh273
+git pull bresh273
+git pull abresh273
+git pull lx-high
+git pull alx-high_level_programming
+git pull https://github.com/Abresh273/alx-higher_level_programming.git
+git clone https://github.com/Abresh273/alx-higher_level_programming.git
+ls
+cd alx-higher_level_programming
+ls
+touch README.med
+git add .
+git push
+git commit -m "pythone"
+git push
+ls
+mkdir 0x00-python-hello_world
+vi 0x00-python-hello_world
+cd 0x00-python-hello_world
+touch 0-run
+ls
+cd ..
+vi 0x00-python-hello_world
+git add .
+git commit -m "1st "
+git push
+git pull
+ls
+git pull
+git add .
+git commit -m "l"
+git push
+vi 0x00-python-hello_world
+git pull
+ls
+cd alx-higher_level_programming
+ls
+gitpull
+git pull
+ls
+git pull
+ls
+cd alx-higher_level_programming
+ls
+git pull
+ls
+git pull
+ls
+cd 0x01-python-if_else_loops_functions
+ls
+touch README.md 1-last_digit.py 2-print_alphabet.py 3-print_alphabt.py 4-print_hexa.py 5-print_comb2.py 6-print_comb3.py 7-islower.py 8-uppercase.py 9-print_last_digit.py 10-add.py 11-pow.py 12-fizzbuzz.py 13-insert_number.c lists.h
+ls
+git add .
+git commit -m "file created"
+git push
+exit
+ls
+cd alx-higher_level_programming
+git pull
+ls
+cd 0x01-python-if_else_loops_functions
+ls
+chmod u+x 7-islower.py
+ls
+git add .
+git commit -m "2"
+git push
+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
+chmod u+x 7-islower.py
+chmod u+x  6-print_comb3.py
+git add .
+git commit -m "a"
+git push 
+chmod u+x 0-positive_or_negative.py  2-print_alphabet.py  8-uppercase.py
+chmod u+x 0-positive_or_negative.py  2-print_alphabet.py  8-uppercase.py 1-last_digit.py            3-print_alphabt.py   9-print_last_digit.py
+chmod u+x 0-positive_or_negative.py  2-print_alphabet.py  8-uppercase.py 1-last_digit.py            3-print_alphabt.py   9-print_last_digit.py 10-add.py                  4-print_hexa.py      README.md
+11-pow.py                  5-print_comb2.py     lists.h
+12-fizzbuzz.py             6-print_comb3.py
+13-insert_number.c         7-islower.py
+ls
+chmod u+x 11-pow.py 12-fizzbuzz.py 13-insert_number.c 5-print_comb2.py
+ls
+git add .
+git commit -m 'g'
+git push
+git pull
+ls
+cd alx-higher_level_programming
+ls
+cd 0x01-python-if_else_loops_functions
+ls
+git pull
+commit -m "l"
+git pull
+git merge
+git commit -m "l"
+git pull
+git add .
+git commit -m "h"
+git push
+git pull
+touch 102-magic_calculation.py 101-remove_char_at.py 100-print_tebahpla.py
+git add .
+git commit -m "advanced task"
+git push
+git pull
+chmod u+x 100-print_tebahpla.py 101-remove_char_at.py 102-magic_calculation.py
+git add .
+git commit -m "d"
+git push
+exit
+git clone https://github.com/Abresh273
+git clone https://github.com/Abresh273/0x02-python-import_modules
+ls
+git pull
+cd alx-higher_level_programming
+ls
+mkdir 0x02-python-import_modules
+ls
+git add .
+git commit -m "creat folder"
+git push
+ls
+git add .
+git commit -m "r"
+ls
+rm -r 0x02-python-import_modules
+ls
+git add .
+git commit -m ""
+git push
+$ vagrant up
+A Vagrant environment or target machine is required to run this
+command. Run `vagrant init` to create a new Vagrant environment. Or,
+get an ID of a target machine from `vagrant global-status` to run
+this command on. A final option is to change to a directory with a
+Vagrantfile and to try again.
+ENGSERVER@ENGSERVER-PC MINGW64 /
+$ cd D/ABC/ALX_SE/Ubuntu
+ENGSERVER@ENGSERVER-PC MINGW64 /D/ABC/ALX_SE/Ubuntu (master)
+$ ls
+Vagrantfile
+ENGSERVER@ENGSERVER-PC MINGW64 /D/ABC/ALX_SE/Ubuntu (master)
+$ vagrant up
+Bringing machine 'default' up with 'virtualbox' provider...
+==> default: Checking if box 'ubuntu/focal64' version '20220324.0.0' is up to date...
+==> default: A newer version of the box 'ubuntu/focal64' for provider 'virtualbox' is
+==> default: available! You currently have version '20220324.0.0'. The latest is version
+==> default: '20220627.1.0'. Run `vagrant box update` to update.
+==> default: Clearing any previously set forwarded ports...
+==> default: Clearing any previously set network interfaces...
+==> default: Preparing network interfaces based on configuration...
+==> default: Forwarding ports...
+==> default: Running 'pre-boot' VM customizations...
+==> default: Booting VM...
+==> default: Waiting for machine to boot. This may take a few minutes...
+==> default: Machine booted and ready!
+==> default: Checking for guest additions in VM...
+==> default: Mounting shared folders...
+==> default: Machine already provisioned. Run `vagrant provision` or use the `--provision`
+==> default: flag to force provisioning. Provisioners marked to run always will still run.
+ENGSERVER@ENGSERVER-PC MINGW64 /D/ABC/ALX_SE/Ubuntu (master)
+$ vagrant ssh
+Welcome to Ubuntu 20.04.4 LTS (GNU/Linux 5.4.0-121-generic x86_64)
+45 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+Last login: Tue Jun 28 13:21:18 2022 from 10.0.2.2
+vagrant@ubuntu-focal:~$ git clone https://github.com/Abresh273
+Cloning into 'Abresh273'...
+remote: Not Found
+fatal: repository 'https://github.com/Abresh273/' not found
+vagrant@ubuntu-focal:~$ git clone https://github.com/Abresh273/0x02-python-import_modules
+Cloning into '0x02-python-import_modules'...
+Username for 'https://github.com': abresh273
+Password for 'https://abresh273@github.com':
+remote: Repository not found.
+fatal: repository 'https://github.com/Abresh273/0x02-python-import_modules/' not found
+vagrant@ubuntu-focal:~$ ls
+README.md  alx-higher_level_programming  alx-low_level_programming  printf
+vagrant@ubuntu-focal:~$ git pull
+Already up to date.
+vagrant@ubuntu-focal:~$ cd alx-higher_level_programming
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ ls
+0x00-python-hello_world  0x01-python-if_else_loops_functions  README.med
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ mkdir 0x02-python-import_modules
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ ls
+0x00-python-hello_world  0x01-python-if_else_loops_functions  0x02-python-import_modules  README.med
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ git add .
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ git commit -m "creat folder"
+On branch master
+Your branch is up to date with 'origin/master'.
+nothing to commit, working tree clean
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ git push
+Username for 'https://github.com': abresh273
+Password for 'https://abresh273@github.com':
+Everything up-to-date
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ ls
+0x00-python-hello_world  0x01-python-if_else_loops_functions  0x02-python-import_modules  README.med
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ ls
+0x00-python-hello_world  0x01-python-if_else_loops_functions  0x02-python-import_modules  README.med
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ git add .
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ git commit -m "r"
+On branch master
+Your branch is up to date with 'origin/master'.
+nothing to commit, working tree clean
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ ls
+0x00-python-hello_world  0x01-python-if_else_loops_functions  0x02-python-import_modules  README.med
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ rm -r 0x02-python-import_modules
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ ls
+0x00-python-hello_world  0x01-python-if_else_loops_functions  README.med
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ git add .
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ git commit -m ""
+On branch master
+Your branch is up to date with 'origin/master'.
+nothing to commit, working tree clean
+vagrant@ubuntu-focal:~/alx-higher_level_programming$ git push
+Username for 'https://github.com': abresh273
+Password for 'https://abresh273@github.com':
+ls
+git add .
+git commit -m ""
+git commit -m "g"
+git push
+ls
+rm default:
+ls
+mkdir 0x02-python-import_modules
+ls
+git add .
+git commit -m "s"
+git push
+ls
+cd 0x02-python-import_modules
+echo "touch" README.md 
+ls
+echo > "touch" README.md 
+ls
+touch README.md
+ls
+git add .
+git commit -m "f"
+git push
+touch 0-add.py 1-calculation.py 2-args.py 3-infinite_add.py 4-hidden_discovery.py 5-variable_load.py 100-my_calculator.py 101-easy_print.py 102-magic_calculation.py 103-fast_alphabet.py
+ls
+git add .
+git commit -m "file creation"
+git push 
+exit() exit
+exit
+ls
+git clone
+ls
+git pull
+cd alx-higher_level_programming
+ls
+mkdir 0x03-python-data_structures
+ls
+cd 0x03-python-data_structures
+ls
+touch README.md
+ls
+touch 0-print_list_integer.py 1-element_at.py 2-replace_in_list.py 3-print_reversed_list_integer.py 4-new_in_list.py 5-no_c.py 6-print_matrix_integer.py 7-add_tuple.py 8-multiple_returns.py 9-max_integer.py 10-divisible_by_2.py 11-delete_at.py 13-is_palindrome.c lists.h 12-switch.py 100-print_python_list_info.c 
+ls
+git add .
+git commit -m "file creation"
+git push
+git pull
+git add .
+git commit "new files"
+git pull
+git add .
+git commit -m "new files"
+git push
+ls
+cd ..
+vi 0x03-python-data_structures
+git pull
+git add .
+git commit -m "k"
+git push
+exit
+ls
+git pull
+cd alx-higher_level_programming
+ls
+git pull
+ls
+mkdir 0x04-python-more_data_structures
+ls
+git add .
+git commit -m "create folder"
+git push
+ls
+cd 0x04-python-more_data_structures
+ls
+touch README.md 0-square_matrix_simple.py 1-search_replace.py 2-uniq_add.py 3-common_elements.py 4-only_diff_elements.py 5-number_keys.py 6-print_sorted_dictionary.py 7-update_dictionary.py 8-simple_delete.py 9-multiply_by_2.py 10-best_score.py 11-multiply_list_map.py 12-roman_to_int.py 100-weight_average.py 101-square_matrix_map.py 102-complex_delete.py 103-python.c
+ls
+git add .
+git commit -m "file creation"
+git push
+git pull
+exit
+ls
+cd alx-higher_level_programming
+ls
+cd ..
+cd alx-low_level_programming
+mkdir 0x17-doubly_linked_lists
+cd 0x17-doubly_linked_lists
+touch REDAME.md
+ls
+touch 0-print_dlistint.c 1-dlistint_len.c 2-add_dnodeint.c 3-add_dnodeint_end.c 4-free_dlistint.c 5-get_dnodeint.c 6-sum_dlistint.c 7-insert_dnodeint.c 8-delete_dnodeint.c 100-password 102-result 103-keygen.c
+ls
+git add .
+git commit -m "k"
+git push
+git pull
+git commit -m "k"
+git add .
+git commit -m "k"
+git add .
+git commit -m "k"
+git pull
+cd ..
+exit
+ls
+git pull
+cd alx-higher_level_programming
+git pull
+ls
+cd ..
+cd alx-low_level_programming
+git pull
+git add .
+git commit -m "folder and file created
+git commit -m "folder and file created"
+git commit -m "folder and file created
+git commit -m "folder and file created"
+git add .
+git commit -m "k"
+git push
+ls
+vi 0x17-doubly_linked_lists
+touch list.h
+vi 0x17-doubly_linked_lists
+cd 0x17-doubly_linked_lists
+touch list.h
+cd ..
+vi 0x17-doubly_linked_lists
+cd ..
+git add .
+ls
+cd alx-low_level_programming
+
+cd 0x17-doubly_linked_lists
+git add .
+git commit -m "y"
+git push
+exit
+ls
+cd alx-higher_level_programming
+ls
+cd ..
+cd alx-low_level_programming
+ls
+git pull
+ls
+mkdir 0x18-dynamic_libraries
+ls
+cd 0x18-dynamic_libraries
+touch README.md libdynamic.so main.h 1-create_dynamic_lib.sh
+ls
+cd ..
+git add .
+git commit -m "file creation"
+git push
+ls
+vi 0x18-dynamic_libraries
+git add .
+git commit -m "l"
+git push
+exit
